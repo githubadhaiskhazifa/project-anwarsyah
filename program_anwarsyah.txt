@@ -3,3 +3,5 @@ Program Anwarsyah
 -program anwarsyah berbasis web
 -program dibuat dengan bahasa pemrograman php, javascript
 -program berupa data mining, spk, sistem pakar, sistem informasi, web based dll
+-program dibuat oleh anwarsyah sendiri
+-program dari referensi internet, buku, e-book, youtube
